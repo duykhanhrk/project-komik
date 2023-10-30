@@ -8,9 +8,9 @@ Comic Reading App, designed to provide users with a seamless and enjoyable comic
 You can access a live demo of this project [here](https://komikeiga.onrender.com/).
 
 # Source code
-* Service: [https://github.com/duykhanhrk/komik](https://github.com/duykhanhrk/komik)
-* Web app: [https://github.com/duykhanhrk/komik-web](https://github.com/duykhanhrk/komik-web)
-* Mobile app: [https://github.com/duykhanhrk/komik-app](https://github.com/duykhanhrk/komik-app)
+* Service: [https://github.com/khanhtranrk/komik](https://github.com/khanhtranrk/komik)
+* Web app: [https://github.com/khanhtranrk/komik-web](https://github.com/khanhtranrk/komik-web)
+* Mobile app: [https://github.com/khanhtranrk/komik-app](https://github.com/khanhtranrk/komik-app)
 
 # Features
 * User Registration

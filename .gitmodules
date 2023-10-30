@@ -1,0 +1,9 @@
+[submodule "komik"]
+	path = komik
+	url = git@github.com:khanhtranrk/komik.git
+[submodule "komik-web"]
+	path = komik-web
+	url = git@github.com:khanhtranrk/komik-web.git
+[submodule "komik-app"]
+	path = komik-app
+	url = git@github.com:khanhtranrk/komik-app.git
